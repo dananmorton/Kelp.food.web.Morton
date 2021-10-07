@@ -2,7 +2,7 @@
 ##
 ## Script name: Species-level Kelp-Forest Food Web (extant species only)
 ##
-## Purpose of script: Generates 3 versions of the kelp-forest food web, aggregated to species level, generates igraph obejcts, and caculates basic metrics
+## Purpose of script: Generates 3 versions of the kelp-forest food web, aggregated to species level. Also generates igraph objects that can be used in plotting and caculates basic metrics
 ##
 ## Author: Dr. Dana Morton
 ##
